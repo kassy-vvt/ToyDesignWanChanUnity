@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{5F177A38-E92D-C2BE-61BC-BE1FF89A1A35}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NetworkTest.cs">
+    <Files>
+      <File FileName="Library/PackageCache/com.unity.test-framework@1.0.17/UnityEngine.TestRunner/TestRunner/Callbacks/TestResultRendererCallback.cs" Line="1" Column="1" />
+      <File FileName="Assets/NetworkTest.cs" Line="10" Column="3" />
+      <File FileName="Assets/NetworkTest.cs" Line="53" Column="1" />
+      <File FileName="Assets/NetworkTest.cs" Line="53" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7760fad-c1f4-4598-ade3-640002ec6135" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
